@@ -2,7 +2,7 @@ function handler(m, { conn, usedPrefix }) {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let text = `
-*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙾𝚆𝙽𝙴𝚁 𝙴𝚂 wa.me/5219992095479*
+*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙾𝚆𝙽𝙴𝚁 𝙴𝚂 wa.me/50373617390*
 `.trim()   
 let buttonMessage= {
 'document': { url: `https://github.com/BrunoSobrino/TheMystic-Bot-MD` },
@@ -17,7 +17,7 @@ let buttonMessage= {
 'mediaUrl': 'https://github.com/BrunoSobrino/TheMystic-Bot-MD',
 'mediaType': 2,
 'previewType': 'pdf',
-'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
+'title': '𝗞𝘂𝗿𝘂𝗺𝗶𝗕𝗼𝘁⁩',
 'body': wm,
 'thumbnail': imagen1,
 'sourceUrl': 'https://www.youtube.com/channel/UCSTDMKjbm-EmEovkygX-lCA' }},
